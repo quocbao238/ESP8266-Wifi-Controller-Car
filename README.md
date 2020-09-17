@@ -1,6 +1,11 @@
 # ESP8266-Wifi-Controller-Car
 DIY ESP8266 Wifi Controller Car - Chế xe điều khiển qua Wifi siêu đơn giản !!!
 
+
+<img src="https://raw.githubusercontent.com/quocbao238/ESP8266-Wifi-Controller-Car/master/image/image.PNG" width="400"/> 
+
+<img src="https://raw.githubusercontent.com/quocbao238/ESP8266-Wifi-Controller-Car/master/image/image.PNG" width="400"/> 
+
 ⭐ Link app điều khiển : https://play.google.com/store/apps/details?id=bao.bon.wificar
 
 ⭐ Video hướng dẫn : https://youtu.be/xyJ834x7aas
